@@ -1,0 +1,1142 @@
+{
+ "Alvada|OH": {
+  "lat": 41.0503322,
+  "lng": -83.4018693,
+  "name": "Alvada, Big Spring Township, Seneca County, Ohio, 44802, United States"
+ },
+ "Antioch|TN": {
+  "lat": 36.0600602,
+  "lng": -86.6722192,
+  "name": "Antioch, Nashville, Davidson County, Middle Tennessee, Tennessee, 37011, United States"
+ },
+ "Auburn|NH": {
+  "lat": 43.0045289,
+  "lng": -71.348398,
+  "name": "Auburn, Rockingham County, New Hampshire, 03032, United States"
+ },
+ "Baileyville|ME": {
+  "lat": 45.1549515,
+  "lng": -67.4050134,
+  "name": "Baileyville, Washington County, Maine, United States"
+ },
+ "Baker|FL": {
+  "lat": 30.3143459,
+  "lng": -82.2847163,
+  "name": "Baker County, Florida, United States"
+ },
+ "Barrington|NH": {
+  "lat": 43.223191,
+  "lng": -71.047211,
+  "name": "Barrington, Strafford County, New Hampshire, United States"
+ },
+ "Belden|MS": {
+  "lat": 34.3103831,
+  "lng": -88.7883888,
+  "name": "Belden, Tupelo, Lee County, Mississippi, 38826, United States"
+ },
+ "Bensalem|PA": {
+  "lat": 40.1045549,
+  "lng": -74.951279,
+  "name": "Bensalem Township, Bucks County, Pennsylvania, United States"
+ },
+ "Berlin|MA": {
+  "lat": 42.3813665,
+  "lng": -71.6372642,
+  "name": "Berlin, Worcester County, Massachusetts, 01503, United States"
+ },
+ "Bethany|LA": {
+  "lat": 32.3737683,
+  "lng": -94.0379649,
+  "name": "Bethany, Caddo Parish, Louisiana, 71007, United States"
+ },
+ "Blakeslee|PA": {
+  "lat": 41.0925133,
+  "lng": -75.5926681,
+  "name": "Blakeslee, Tobyhanna Township, Monroe County, Pennsylvania, 18610, United States"
+ },
+ "Bois D Arc|MO": {
+  "lat": 37.2564382,
+  "lng": -93.507696,
+  "name": "Bois D'Arc, Greene County, Missouri, United States"
+ },
+ "Bow|NH": {
+  "lat": 43.133061,
+  "lng": -71.549149,
+  "name": "Bow, Merrimack County, New Hampshire, 03304, United States"
+ },
+ "Boylston|MA": {
+  "lat": 42.353279,
+  "lng": -71.7343582,
+  "name": "Boylston, Worcester County, Massachusetts, 01505, United States"
+ },
+ "Branford|CT": {
+  "lat": 41.2795414,
+  "lng": -72.8150989,
+  "name": "Branford, South Central Connecticut Planning Region, Connecticut, 06405, United States"
+ },
+ "Breezewood|PA": {
+  "lat": 39.9990119,
+  "lng": -78.2404221,
+  "name": "Breezewood, East Providence Township, Bedford County, Pennsylvania, 15533, United States"
+ },
+ "Bridgewater|MA": {
+  "lat": 41.9902206,
+  "lng": -70.9754432,
+  "name": "Bridgewater, Plymouth County, Massachusetts, United States"
+ },
+ "Brogue|PA": {
+  "lat": 39.8723546,
+  "lng": -76.4846387,
+  "name": "Brogue, Chanceford Township, York County, Pennsylvania, 17309, United States"
+ },
+ "Bronx|NY": {
+  "lat": 40.8466508,
+  "lng": -73.8785937,
+  "name": "The Bronx, Bronx County, New York, United States"
+ },
+ "Brownville|ME": {
+  "lat": 45.3499664,
+  "lng": -69.0513851,
+  "name": "Brownville, Piscataquis County, Maine, 04414, United States"
+ },
+ "Canaan|ME": {
+  "lat": 44.7630602,
+  "lng": -69.5596522,
+  "name": "Canaan, Somerset County, Maine, 04924, United States"
+ },
+ "Canaan|NY": {
+  "lat": 42.4118426,
+  "lng": -73.4496088,
+  "name": "Town of Canaan, Columbia County, New York, United States"
+ },
+ "Candia|NH": {
+  "lat": 43.077916,
+  "lng": -71.277237,
+  "name": "Candia, Rockingham County, New Hampshire, 03034, United States"
+ },
+ "Candler|NC": {
+  "lat": 35.5444359,
+  "lng": -82.6838032,
+  "name": "Candler, Buncombe County, North Carolina, 28715, United States"
+ },
+ "Canon City|CO": {
+  "lat": 38.4422506,
+  "lng": -105.2348795,
+  "name": "Ca\u00f1on City, Fremont County, Colorado, 81212, United States"
+ },
+ "Canton|MI": {
+  "lat": 32.612602,
+  "lng": -90.0367512,
+  "name": "Canton, Madison County, Mississippi, 39046, United States"
+ },
+ "Carson City|NV": {
+  "lat": 39.1663259,
+  "lng": -119.7670374,
+  "name": "Carson City, Nevada, United States"
+ },
+ "Casa Blanca|NM": {
+  "lat": 35.046318,
+  "lng": -107.4713938,
+  "name": "Casa Blanca, Paraje, Cibola County, New Mexico, 87007, United States"
+ },
+ "Casco|MI": {
+  "lat": 42.7525317,
+  "lng": -82.6715845,
+  "name": "Casco Township, Saint Clair County, Michigan, 48064, United States"
+ },
+ "Castle Creek|NY": {
+  "lat": 42.2275753,
+  "lng": -75.918253,
+  "name": "Castle Creek, Town of Chenango, Broome County, New York, 13744, United States"
+ },
+ "Cayuta|NY": {
+  "lat": 42.2817412,
+  "lng": -76.6968945,
+  "name": "Town of Cayuta, Schuyler County, New York, 14824, United States"
+ },
+ "Cedar Grove|TN": {
+  "lat": 36.2517196,
+  "lng": -86.5277724,
+  "name": "Cedar Grove, Wilson County, Middle Tennessee, Tennessee, United States"
+ },
+ "Champion|MI": {
+  "lat": 46.5138246,
+  "lng": -87.9634679,
+  "name": "Champion, Champion Township, Marquette County, Michigan, 49814, United States"
+ },
+ "Chappell Hill|TX": {
+  "lat": 30.141529,
+  "lng": -96.2567185,
+  "name": "Chappell Hill, Washington County, Texas, 77426, United States"
+ },
+ "Charlton|MA": {
+  "lat": 42.1340806,
+  "lng": -71.9698085,
+  "name": "Charlton, Worcester County, Massachusetts, United States"
+ },
+ "Cherry Hill|NJ": {
+  "lat": 39.9348351,
+  "lng": -75.0307264,
+  "name": "Cherry Hill Township, Camden County, New Jersey, United States"
+ },
+ "Chesterfield|VA": {
+  "lat": 37.3859982,
+  "lng": -77.578509,
+  "name": "Chesterfield County, Virginia, United States"
+ },
+ "Clear Brook|VA": {
+  "lat": 39.2564912,
+  "lng": -78.096111,
+  "name": "Clear Brook, Stephenson, Frederick County, Virginia, 22624, United States"
+ },
+ "Clifton Park|NY": {
+  "lat": 42.8630374,
+  "lng": -73.7747623,
+  "name": "Town of Clifton Park, Saratoga County, New York, United States"
+ },
+ "Clines Corners|NM": {
+  "lat": 35.0094982,
+  "lng": -105.66918,
+  "name": "Clines Corners, Torrance County, New Mexico, 87070, United States"
+ },
+ "Colfax|NC": {
+  "lat": 36.1126365,
+  "lng": -80.0144842,
+  "name": "Colfax, Guilford County, North Carolina, 27235, United States"
+ },
+ "Colgate|WI": {
+  "lat": 43.1928301,
+  "lng": -88.2067737,
+  "name": "Colgate, Village of Lisbon, Waukesha County, Wisconsin, 53017, United States"
+ },
+ "Corinth|ME": {
+  "lat": 45.0037427,
+  "lng": -69.0234445,
+  "name": "Corinth, Penobscot County, Maine, 04427, United States"
+ },
+ "Crescent|PA": {
+  "lat": 39.8962492,
+  "lng": -75.175164,
+  "name": "Crescent Park, Crescent, Crescent Drive, The Navy Yard, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19112, United States"
+ },
+ "Cross Junction|VA": {
+  "lat": 39.3203785,
+  "lng": -78.2933382,
+  "name": "Cross Junction, Frederick County, Virginia, 22625, United States"
+ },
+ "Curtis Bay|MD": {
+  "lat": 39.2252188,
+  "lng": -76.5900312,
+  "name": "Curtis Bay, Baltimore, Maryland, United States"
+ },
+ "Darien|CT": {
+  "lat": 41.0787079,
+  "lng": -73.4692873,
+  "name": "Darien, Western Connecticut Planning Region, Connecticut, 06820, United States"
+ },
+ "Denmark|TN": {
+  "lat": 35.5328546,
+  "lng": -89.003952,
+  "name": "Denmark, Madison County, West Tennessee, Tennessee, 38391, United States"
+ },
+ "Derby|VT": {
+  "lat": 44.9474125,
+  "lng": -72.1339323,
+  "name": "Derby, Orleans County, Vermont, United States"
+ },
+ "Diamond|OH": {
+  "lat": 41.0989463,
+  "lng": -81.022871,
+  "name": "Diamond, Palmyra Township, Portage County, Ohio, 44429, United States"
+ },
+ "Doswell|VA": {
+  "lat": 37.8601402,
+  "lng": -77.4641492,
+  "name": "Doswell, Hanover County, Virginia, 23047, United States"
+ },
+ "Drewryville|VA": {
+  "lat": 36.7157055,
+  "lng": -77.3063603,
+  "name": "Drewryville, Southampton County, Virginia, 23844, United States"
+ },
+ "Drums|PA": {
+  "lat": 41.018139,
+  "lng": -75.9949252,
+  "name": "Drums, Butler Township, Luzerne County, Pennsylvania, 18247, United States"
+ },
+ "Dumont|CO": {
+  "lat": 39.7646887,
+  "lng": -105.600337,
+  "name": "Dumont, Clear Creek County, Colorado, 80436, United States"
+ },
+ "Dundee|IL": {
+  "lat": 42.0989145,
+  "lng": -88.2714689,
+  "name": "East Dundee, Dundee Township, Kane County, Illinois, United States"
+ },
+ "East Brunswick|NJ": {
+  "lat": 40.4278841,
+  "lng": -74.415984,
+  "name": "East Brunswick Township, Middlesex County, New Jersey, United States"
+ },
+ "East Granby|CT": {
+  "lat": 41.9418011,
+  "lng": -72.7275015,
+  "name": "East Granby, Capitol Planning Region, Connecticut, 06026, United States"
+ },
+ "East Lyme|CT": {
+  "lat": 41.3482141,
+  "lng": -72.2092951,
+  "name": "East Lyme, Southeastern Connecticut Planning Region, Connecticut, United States"
+ },
+ "East Windsor|CT": {
+  "lat": 41.9156394,
+  "lng": -72.6129917,
+  "name": "East Windsor, Capitol Planning Region, Connecticut, United States"
+ },
+ "Eastaboga|AL": {
+  "lat": 33.6059367,
+  "lng": -86.0213587,
+  "name": "Eastaboga, Calhoun County, Alabama, 36260, United States"
+ },
+ "Edison|NJ": {
+  "lat": 40.5005351,
+  "lng": -74.3983939,
+  "name": "Edison, Middlesex County, New Jersey, United States"
+ },
+ "Edwards|IL": {
+  "lat": 38.410254,
+  "lng": -88.0584362,
+  "name": "Edwards County, Illinois, United States"
+ },
+ "Elizabethport|NJ": {
+  "lat": 40.6501031,
+  "lng": -74.1870888,
+  "name": "Elizabethport, Elizabeth, Union County, New Jersey, 07206, United States"
+ },
+ "Ellabell|GA": {
+  "lat": 32.1235368,
+  "lng": -81.4856673,
+  "name": "Ellabell, Bryan County, Georgia, United States"
+ },
+ "Ellenwood|GA": {
+  "lat": 33.6101096,
+  "lng": -84.287978,
+  "name": "Ellenwood, Clayton County, Georgia, 30273, United States"
+ },
+ "Etters|PA": {
+  "lat": 40.2245912,
+  "lng": -76.8980809,
+  "name": "Etters Bridge, Green Lane Drive, Green Lane Farms, Fairview Township, York County, Pennsylvania, 17011, United States"
+ },
+ "Fackler|AL": {
+  "lat": 34.7925827,
+  "lng": -85.9099775,
+  "name": "Fackler, Jackson County, Alabama, United States"
+ },
+ "Fairfield|NJ": {
+  "lat": 40.8837238,
+  "lng": -74.3068718,
+  "name": "Fairfield, Essex County, New Jersey, 07004, United States"
+ },
+ "Feasterville Trevose|PA": {
+  "lat": 40.1514065,
+  "lng": -74.9886785,
+  "name": "Feasterville-Trevose, Lower Southampton Township, Bucks County, Pennsylvania, United States"
+ },
+ "Ferrisburgh|VT": {
+  "lat": 44.2057119,
+  "lng": -73.2462973,
+  "name": "Ferrisburgh, Addison County, Vermont, United States"
+ },
+ "Fortson|GA": {
+  "lat": 33.3778914,
+  "lng": -84.2888119,
+  "name": "Fortson, Hampton, Henry County, Georgia, 30284, United States"
+ },
+ "Franksville|WI": {
+  "lat": 42.7600188,
+  "lng": -87.9134133,
+  "name": "Franksville, Caledonia, Racine County, Wisconsin, 53406, United States"
+ },
+ "Gansevoort|NY": {
+  "lat": 43.1962051,
+  "lng": -73.6513967,
+  "name": "Gansevoort, Town of Northumberland, Saratoga County, New York, 12831, United States"
+ },
+ "Gladstone|VA": {
+  "lat": 37.5468094,
+  "lng": -78.8494619,
+  "name": "Gladstone, Nelson County, Virginia, United States"
+ },
+ "Glendale|KY": {
+  "lat": 37.6017278,
+  "lng": -85.9055189,
+  "name": "Glendale, Hardin County, Kentucky, 42740, United States"
+ },
+ "Glenmont|NY": {
+  "lat": 42.604802,
+  "lng": -73.7695658,
+  "name": "Glenmont, Bethlehem Center, Town of Bethlehem, Albany County, New York, 12077, United States"
+ },
+ "Grassy Butte|ND": {
+  "lat": 47.3952923,
+  "lng": -103.2490767,
+  "name": "Grassy Butte, McKenzie County, North Dakota, 58634, United States"
+ },
+ "Greenland|NH": {
+  "lat": 43.0361995,
+  "lng": -70.8328322,
+  "name": "Greenland, Rockingham County, New Hampshire, 03840, United States"
+ },
+ "Greentown|PA": {
+  "lat": 41.321755,
+  "lng": -75.3054585,
+  "name": "Greentown, Greene Township, Pike County, Pennsylvania, 18426, United States"
+ },
+ "Grovertown|IN": {
+  "lat": 41.3750434,
+  "lng": -86.5047339,
+  "name": "Grovertown, Starke County, Indiana, United States"
+ },
+ "Gum Spring|VA": {
+  "lat": 37.7755262,
+  "lng": -77.8968114,
+  "name": "Gum Spring, Louisa County, Virginia, 23065, United States"
+ },
+ "Hamptonville|NC": {
+  "lat": 36.0984684,
+  "lng": -80.760345,
+  "name": "Hamptonville, Yadkin County, North Carolina, 27020, United States"
+ },
+ "Hankamer|TX": {
+  "lat": 29.8582755,
+  "lng": -94.6268618,
+  "name": "Hankamer, Chambers County, Texas, 77560, United States"
+ },
+ "Harpursville|NY": {
+  "lat": 42.1784124,
+  "lng": -75.6246298,
+  "name": "Harpursville, Town of Colesville, Broome County, New York, 13787, United States"
+ },
+ "Hartford|TN": {
+  "lat": 35.8167646,
+  "lng": -83.1432066,
+  "name": "Hartford, Cocke County, East Tennessee, Tennessee, 37753, United States"
+ },
+ "Heiskell|TN": {
+  "lat": 36.081816,
+  "lng": -84.0539821,
+  "name": "Heiskell, Knox County, East Tennessee, Tennessee, 37849, United States"
+ },
+ "Henrico|VA": {
+  "lat": 37.5131191,
+  "lng": -77.3465081,
+  "name": "Henrico County, Virginia, United States"
+ },
+ "Henrietta|NY": {
+  "lat": 43.0611781,
+  "lng": -77.6338983,
+  "name": "Town of Henrietta, Monroe County, New York, United States"
+ },
+ "Hogansburg|NY": {
+  "lat": 44.9739364,
+  "lng": -74.6632416,
+  "name": "Hogansburg, Town of Bombay, Franklin County, New York, 13655, United States"
+ },
+ "Holden|ME": {
+  "lat": 44.7528499,
+  "lng": -68.6789218,
+  "name": "Holden, Penobscot County, Maine, 04429, United States"
+ },
+ "Hope Hull|AL": {
+  "lat": 32.2698632,
+  "lng": -86.3571916,
+  "name": "Hope Hull, Montgomery County, Alabama, 36105, United States"
+ },
+ "Hot Springs National Park|AR": {
+  "lat": 34.5290712,
+  "lng": -93.0301402,
+  "name": "Hot Springs National Park, Hot Springs, Garland County, Arkansas, United States"
+ },
+ "Hunt Valley|MD": {
+  "lat": 39.4962709,
+  "lng": -76.6542571,
+  "name": "Hunt Valley, 98, Shawan Road, Hunt Valley, Cockeysville, Baltimore County, Maryland, 21030, United States"
+ },
+ "Hurricane Mills|TN": {
+  "lat": 35.9711736,
+  "lng": -87.781969,
+  "name": "Hurricane Mills, Humphreys County, Middle Tennessee, Tennessee, 37078, United States"
+ },
+ "Irvington|AL": {
+  "lat": 30.5068623,
+  "lng": -88.2338925,
+  "name": "Irvington, Mobile County Commission District 3, Mobile County, Alabama, 36568, United States"
+ },
+ "Irving|NY": {
+  "lat": 42.5675589,
+  "lng": -79.1128169,
+  "name": "Irving, Sunset Bay, Town of Hanover, Chautauqua County, New York, 14081, United States"
+ },
+ "Isom|KY": {
+  "lat": 37.1878764,
+  "lng": -82.8987718,
+  "name": "Isom, Letcher County, Kentucky, 41824, United States"
+ },
+ "Ivydale|WV": {
+  "lat": 38.310097,
+  "lng": -81.7045688,
+  "name": "Ivydale, Charleston, Kanawha County, West Virginia, 25309, United States"
+ },
+ "Jean|NV": {
+  "lat": 35.7788568,
+  "lng": -115.3243823,
+  "name": "Jean, Clark County, Nevada, 89026, United States"
+ },
+ "Joelton|TN": {
+  "lat": 36.3131076,
+  "lng": -86.8652772,
+  "name": "Joelton, Nashville, Davidson County, Middle Tennessee, Tennessee, 37080, United States"
+ },
+ "Johns Island|SC": {
+  "lat": 32.7024009,
+  "lng": -80.0481488,
+  "name": "Johns Island, Fabius Maximus Rd, Johns Island, Charleston County, South Carolina, 29455, United States"
+ },
+ "Johnston|RI": {
+  "lat": 41.8310404,
+  "lng": -71.5412101,
+  "name": "Johnston, Providence County, Rhode Island, 02919, United States"
+ },
+ "Kearneysville|WV": {
+  "lat": 39.3881556,
+  "lng": -77.8855516,
+  "name": "Kearneysville, Jefferson County, West Virginia, 25430, United States"
+ },
+ "Knoxville|AL": {
+  "lat": 33.5917715,
+  "lng": -85.8971885,
+  "name": "Knoxville, Oxford, Calhoun County, Alabama, United States"
+ },
+ "Kodak|TN": {
+  "lat": 35.9745323,
+  "lng": -83.6268396,
+  "name": "Kodak, Sevier County, East Tennessee, Tennessee, 37764, United States"
+ },
+ "La Fayette|NY": {
+  "lat": 42.8925794,
+  "lng": -76.1060197,
+  "name": "La Fayette Post Office, 2507, Route 11, Town of LaFayette, Onondaga County, New York, 13084, United States"
+ },
+ "Lake Ariel|PA": {
+  "lat": 41.4539745,
+  "lng": -75.382681,
+  "name": "Lake Ariel, Lake Township, Wayne County, Pennsylvania, 18436, United States"
+ },
+ "Lambsburg|VA": {
+  "lat": 36.5854078,
+  "lng": -80.7611817,
+  "name": "Lambsburg, Carroll County, Virginia, 24351, United States"
+ },
+ "Lancaster|MA": {
+  "lat": 42.4431437,
+  "lng": -71.6852823,
+  "name": "Lancaster, Worcester County, Massachusetts, United States"
+ },
+ "Lanexa|VA": {
+  "lat": 37.4237573,
+  "lng": -76.9010753,
+  "name": "Lanexa, New Kent County, Virginia, 23089, United States"
+ },
+ "Larsen|WI": {
+  "lat": 44.1916501,
+  "lng": -88.623999,
+  "name": "Larsen, Town of Clayton, Winnebago County, Wisconsin, 54947, United States"
+ },
+ "Lawrence|MS": {
+  "lat": 31.5129753,
+  "lng": -90.1205396,
+  "name": "Lawrence County, Mississippi, United States"
+ },
+ "Leesville|SC": {
+  "lat": 33.916532,
+  "lng": -81.5134368,
+  "name": "Leesville, Batesburg-Leesville, Lexington County, South Carolina, 29060, United States"
+ },
+ "Lenorah|TX": {
+  "lat": 32.30456,
+  "lng": -101.8762483,
+  "name": "Lenorah, Martin County, Texas, 79749, United States"
+ },
+ "Lewis|NY": {
+  "lat": 43.7344277,
+  "lng": -75.440289,
+  "name": "Lewis County, New York, United States"
+ },
+ "Liberty|ME": {
+  "lat": 44.3927438,
+  "lng": -69.3074579,
+  "name": "Liberty, Waldo County, Maine, 04949, United States"
+ },
+ "Linwood|NC": {
+  "lat": 35.7506938,
+  "lng": -80.3178306,
+  "name": "Linwood, Davidson County, North Carolina, United States"
+ },
+ "Livingston|NY": {
+  "lat": 42.7360902,
+  "lng": -77.7781416,
+  "name": "Livingston County, New York, United States"
+ },
+ "Longs|SC": {
+  "lat": 33.9385274,
+  "lng": -78.7330522,
+  "name": "Longs, Horry County, South Carolina, United States"
+ },
+ "Ludlow|MA": {
+  "lat": 42.1589979,
+  "lng": -72.4803259,
+  "name": "Ludlow, Hampden County, Massachusetts, 01056, United States"
+ },
+ "Madison|CT": {
+  "lat": 41.2794282,
+  "lng": -72.5983151,
+  "name": "Madison, South Central Connecticut Planning Region, Connecticut, 06443, United States"
+ },
+ "Magna|UT": {
+  "lat": 40.7031629,
+  "lng": -112.081648,
+  "name": "Magna, Salt Lake County, Utah, 84044, United States"
+ },
+ "Mahwah|NJ": {
+  "lat": 41.0887072,
+  "lng": -74.1437552,
+  "name": "Mahwah, Bergen County, New Jersey, United States"
+ },
+ "Maxwell|TX": {
+  "lat": 29.881897,
+  "lng": -97.7956423,
+  "name": "Maxwell, Caldwell County, Texas, 78656, United States"
+ },
+ "Mc Alpin|FL": {
+  "lat": 30.1396324,
+  "lng": -82.9440642,
+  "name": "Mc Alpin Road, McAlpin, Suwannee County, Florida, 32064, United States"
+ },
+ "Medway|ME": {
+  "lat": 45.6089427,
+  "lng": -68.5308623,
+  "name": "Medway, Penobscot County, Maine, 04460, United States"
+ },
+ "Merrimack|NH": {
+  "lat": 43.3260376,
+  "lng": -71.6854725,
+  "name": "Merrimack County, New Hampshire, United States"
+ },
+ "Middlebury Center|PA": {
+  "lat": 41.8436841,
+  "lng": -77.2744202,
+  "name": "Middlebury Center, Middlebury Township, Tioga County, Pennsylvania, 16935, United States"
+ },
+ "Middlesboro|KY": {
+  "lat": 36.6072968,
+  "lng": -83.7143317,
+  "name": "Middlesboro, Bell County, Kentucky, United States"
+ },
+ "Middleton|MI": {
+  "lat": 43.1833659,
+  "lng": -84.7088895,
+  "name": "Middleton, Fulton Township, Gratiot County, Michigan, 48856, United States"
+ },
+ "Midland|GA": {
+  "lat": 32.5748608,
+  "lng": -84.827152,
+  "name": "Midland, Columbus, Muscogee County, Georgia, 31820, United States"
+ },
+ "Millbury|MA": {
+  "lat": 42.1913817,
+  "lng": -71.7603934,
+  "name": "Millbury, Worcester County, Massachusetts, 01527, United States"
+ },
+ "Milldale|CT": {
+  "lat": 41.5661372,
+  "lng": -72.8999672,
+  "name": "Milldale, Southington, Capitol Planning Region, Connecticut, 06467, United States"
+ },
+ "Millersville|MD": {
+  "lat": 39.0595542,
+  "lng": -76.6480219,
+  "name": "Millersville, Glen Burnie, Anne Arundel County, Maryland, 21054, United States"
+ },
+ "Milltown|MT": {
+  "lat": 46.8712952,
+  "lng": -113.8817192,
+  "name": "Milltown, Missoula County, Montana, 59851, United States"
+ },
+ "Moapa|NV": {
+  "lat": 36.75295,
+  "lng": -114.648614,
+  "name": "Moapa, Clark County, Nevada, 89125, United States"
+ },
+ "Monroe Township|NJ": {
+  "lat": 40.335756,
+  "lng": -74.4334464,
+  "name": "Monroe Township, Middlesex County, New Jersey, 08831, United States"
+ },
+ "Monroeton|PA": {
+  "lat": 41.7125751,
+  "lng": -76.4746649,
+  "name": "Monroeton, Monroe, Bradford County, Pennsylvania, 18832, United States"
+ },
+ "Montague|NJ": {
+  "lat": 41.3031498,
+  "lng": -74.7934993,
+  "name": "Montague Township, Sussex County, New Jersey, 07827, United States"
+ },
+ "Montezuma|NY": {
+  "lat": 43.010065,
+  "lng": -76.7032833,
+  "name": "Town of Montezuma, Cayuga County, New York, United States"
+ },
+ "Mount Holly|NJ": {
+  "lat": 39.9928898,
+  "lng": -74.7876624,
+  "name": "Mount Holly Township, Burlington County, New Jersey, 08060, United States"
+ },
+ "Mount Laurel|NJ": {
+  "lat": 39.934002,
+  "lng": -74.8909988,
+  "name": "Mount Laurel Township, Burlington County, New Jersey, United States"
+ },
+ "Mount Nebo|WV": {
+  "lat": 39.6023047,
+  "lng": -79.7078303,
+  "name": "Mount Nebo, Preston County, West Virginia, United States"
+ },
+ "Natick|MA": {
+  "lat": 42.2836393,
+  "lng": -71.346996,
+  "name": "Natick, Middlesex County, Massachusetts, United States"
+ },
+ "New Boston|MI": {
+  "lat": 42.1625408,
+  "lng": -83.4029885,
+  "name": "New Boston, Huron Charter Township, Wayne County, Michigan, United States"
+ },
+ "New Hampton|NY": {
+  "lat": 41.4098658,
+  "lng": -74.4117435,
+  "name": "New Hampton, Town of Wawayanda, Orange County, New York, 10558, United States"
+ },
+ "Newburg|MD": {
+  "lat": 38.3773478,
+  "lng": -76.9533055,
+  "name": "Newburg, Charles County, Maryland, 20664, United States"
+ },
+ "Newport|MI": {
+  "lat": 42.0022672,
+  "lng": -83.3085419,
+  "name": "Newport, Berlin Charter Township, Monroe County, Michigan, 48166, United States"
+ },
+ "Newton Lower Falls|MA": {
+  "lat": 42.3258005,
+  "lng": -71.2563409,
+  "name": "Newton Lower Falls, Newton, Middlesex County, Massachusetts, 02462, United States"
+ },
+ "North Bergen|NJ": {
+  "lat": 40.8042674,
+  "lng": -74.012084,
+  "name": "North Bergen, Hudson County, New Jersey, United States"
+ },
+ "North Billerica|MA": {
+  "lat": 42.5852621,
+  "lng": -71.2877645,
+  "name": "North Billerica, Billerica, Middlesex County, Massachusetts, 01862, United States"
+ },
+ "North Brunswick|NJ": {
+  "lat": 40.4539249,
+  "lng": -74.476545,
+  "name": "North Brunswick Township, Middlesex County, New Jersey, United States"
+ },
+ "North Jackson|OH": {
+  "lat": 41.1001272,
+  "lng": -80.8571741,
+  "name": "North Jackson, Jackson Township, Mahoning County, Ohio, 44451, United States"
+ },
+ "North Oxford|MA": {
+  "lat": 42.1500947,
+  "lng": -71.8684054,
+  "name": "North Oxford, Oxford, Worcester County, Massachusetts, 01537, United States"
+ },
+ "North Stonington|CT": {
+  "lat": 41.4411845,
+  "lng": -71.8812698,
+  "name": "North Stonington, Southeastern Connecticut Planning Region, Connecticut, 06359, United States"
+ },
+ "Northwood|NH": {
+  "lat": 43.194664,
+  "lng": -71.151581,
+  "name": "Northwood, Rockingham County, New Hampshire, 03261, United States"
+ },
+ "Nottingham|MD": {
+  "lat": 39.3639964,
+  "lng": -76.4521842,
+  "name": "Nottingham, White Marsh, Baltimore County, Maryland, 21326, United States"
+ },
+ "Orla|TX": {
+  "lat": 31.8250149,
+  "lng": -103.9090099,
+  "name": "Orla, Reeves County, Texas, 79770, United States"
+ },
+ "Ottawa Lake|MI": {
+  "lat": 41.7641517,
+  "lng": -83.7493869,
+  "name": "Ottawa Lake, Whiteford Township, Monroe County, Michigan, 49267, United States"
+ },
+ "Pecos|TX": {
+  "lat": 30.7857437,
+  "lng": -102.8065415,
+  "name": "Pecos County, Texas, United States"
+ },
+ "Pendleton|KY": {
+  "lat": 38.6914606,
+  "lng": -84.3689142,
+  "name": "Pendleton County, Kentucky, United States"
+ },
+ "Pennsauken|NJ": {
+  "lat": 39.9562238,
+  "lng": -75.0579502,
+  "name": "Pennsauken Township, Camden County, New Jersey, 08110, United States"
+ },
+ "Pioneer|TN": {
+  "lat": 36.4175798,
+  "lng": -84.3140995,
+  "name": "Pioneer, Campbell County, East Tennessee, Tennessee, 37847, United States"
+ },
+ "Plainfield|CT": {
+  "lat": 41.6799374,
+  "lng": -71.9147282,
+  "name": "Plainfield, Northeastern Connecticut Planning Region, Connecticut, United States"
+ },
+ "Prairie Hill|TX": {
+  "lat": 31.6551661,
+  "lng": -96.7888794,
+  "name": "Prairie Hill, Limestone County, Texas, 76678, United States"
+ },
+ "Princeton|ME": {
+  "lat": 45.2246849,
+  "lng": -67.5758786,
+  "name": "Princeton, Washington County, Maine, United States"
+ },
+ "Providence Forge|VA": {
+  "lat": 37.4424264,
+  "lng": -77.0439583,
+  "name": "Providence Forge, New Kent County, Virginia, 23140, United States"
+ },
+ "Pryor|OK": {
+  "lat": 36.3084275,
+  "lng": -95.3169136,
+  "name": "Pryor Creek, Mayes County, Oklahoma, United States"
+ },
+ "Pueblo Of Acoma|NM": {
+  "lat": 34.8960604,
+  "lng": -107.5819746,
+  "name": "Pueblo of Acoma Historical Marker, Acoma Pueblo, Cibola County, New Mexico, United States"
+ },
+ "Queensbury|NY": {
+  "lat": 43.3618532,
+  "lng": -73.6652451,
+  "name": "Town of Queensbury, Warren County, New York, United States"
+ },
+ "Quinton|VA": {
+  "lat": 37.5327893,
+  "lng": -77.1154448,
+  "name": "Quinton, New Kent County, Virginia, 23124, United States"
+ },
+ "Rabun Gap|GA": {
+  "lat": 34.9572143,
+  "lng": -83.3864536,
+  "name": "Rabun Gap, Rabun County, Georgia, 30568, United States"
+ },
+ "Raphine|VA": {
+  "lat": 37.9373548,
+  "lng": -79.2328102,
+  "name": "Raphine, Rockbridge County, Virginia, 24472, United States"
+ },
+ "Redford|MI": {
+  "lat": 42.3833698,
+  "lng": -83.2965971,
+  "name": "Redford, Redford Township, Wayne County, Michigan, 48239, United States"
+ },
+ "Ridgedale|MO": {
+  "lat": 36.5039535,
+  "lng": -93.2237919,
+  "name": "Ridgedale, Taney County, Missouri, 65739, United States"
+ },
+ "Rising Fawn|GA": {
+  "lat": 34.7600791,
+  "lng": -85.531076,
+  "name": "Rising Fawn, Dade County, Georgia, United States"
+ },
+ "Roans Prairie|TX": {
+  "lat": 30.5836549,
+  "lng": -95.943324,
+  "name": "Roans Prairie, Grimes County, Texas, 77875, United States"
+ },
+ "Rockville|VA": {
+  "lat": 37.7259779,
+  "lng": -77.6783239,
+  "name": "Rockville, Hanover County, Virginia, 23146, United States"
+ },
+ "Rosedale|VA": {
+  "lat": 36.9592782,
+  "lng": -81.9312351,
+  "name": "Rosedale, Russell County, Virginia, 24280, United States"
+ },
+ "Round O|SC": {
+  "lat": 32.9371151,
+  "lng": -80.5409352,
+  "name": "Round O, Colleton County, South Carolina, 29474, United States"
+ },
+ "Ruther Glen|VA": {
+  "lat": 37.9408753,
+  "lng": -77.4618647,
+  "name": "Ruther Glen, Caroline County, Virginia, 22546, United States"
+ },
+ "S Coffeyville|OK": {
+  "lat": 36.9945248,
+  "lng": -95.6202552,
+  "name": "South Coffeyville, Nowata County, Oklahoma, United States"
+ },
+ "Saint Croix|IN": {
+  "lat": 38.2239531,
+  "lng": -86.5863387,
+  "name": "Saint Croix, Perry County, Indiana, 47576, United States"
+ },
+ "Saint Johns|FL": {
+  "lat": 29.9032284,
+  "lng": -81.4145468,
+  "name": "Saint Johns County, Florida, United States"
+ },
+ "Saint Thomas|PA": {
+  "lat": 39.9175908,
+  "lng": -77.7977726,
+  "name": "Saint Thomas, St. Thomas Township, Franklin County, Pennsylvania, 17252, United States"
+ },
+ "Sangerfield|NY": {
+  "lat": 42.9139589,
+  "lng": -75.3790591,
+  "name": "Town of Sangerfield, Oneida County, New York, 13480, United States"
+ },
+ "Sawyer|MI": {
+  "lat": 41.8853207,
+  "lng": -86.5894666,
+  "name": "Sawyer, Chikaming Township, Berrien County, Michigan, 49125, United States"
+ },
+ "Scarborough|ME": {
+  "lat": 43.5899737,
+  "lng": -70.3346065,
+  "name": "Scarborough, Cumberland County, Maine, 04074, United States"
+ },
+ "Seekonk|MA": {
+  "lat": 41.808434,
+  "lng": -71.3369973,
+  "name": "Seekonk, Bristol County, Massachusetts, United States"
+ },
+ "Sherman|ME": {
+  "lat": 45.8727797,
+  "lng": -68.3866057,
+  "name": "Sherman, Aroostook County, Maine, 04776, United States"
+ },
+ "Shrewsbury|MA": {
+  "lat": 42.2960187,
+  "lng": -71.71351,
+  "name": "Shrewsbury, Worcester County, Massachusetts, 01545, United States"
+ },
+ "Skippers|VA": {
+  "lat": 36.6118169,
+  "lng": -77.5466463,
+  "name": "Skippers, Greensville County, Virginia, 23879, United States"
+ },
+ "Smiths Creek|MI": {
+  "lat": 42.9139187,
+  "lng": -82.6038085,
+  "name": "Smiths Creek, Saint Clair County, Michigan, 48027, United States"
+ },
+ "South Windsor|CT": {
+  "lat": 41.8352395,
+  "lng": -72.5562712,
+  "name": "South Windsor, Capitol Planning Region, Connecticut, 06074, United States"
+ },
+ "Sterling|ND": {
+  "lat": 46.813878,
+  "lng": -100.2915,
+  "name": "Sterling, Burleigh County, North Dakota, 58572, United States"
+ },
+ "Summerfield|FL": {
+  "lat": 29.0085924,
+  "lng": -82.0348092,
+  "name": "Summerfield, Marion County, Florida, 34492, United States"
+ },
+ "Supply|NC": {
+  "lat": 34.0176717,
+  "lng": -78.267499,
+  "name": "Supply, Brunswick County, North Carolina, United States"
+ },
+ "Sutton|MA": {
+  "lat": 42.1499283,
+  "lng": -71.7629658,
+  "name": "Sutton, Worcester County, Massachusetts, 01590, United States"
+ },
+ "Tafton|PA": {
+  "lat": 41.404534,
+  "lng": -75.1829535,
+  "name": "Tafton, Palmyra Township, Pike County, Pennsylvania, 18464, United States"
+ },
+ "Taylor|MO": {
+  "lat": 39.9381011,
+  "lng": -91.5237663,
+  "name": "Taylor, Marion County, Missouri, 63471, United States"
+ },
+ "Teays|WV": {
+  "lat": 38.4417571,
+  "lng": -81.9529125,
+  "name": "Teays, Hickory Hill, Teays Valley, Putnam County, West Virginia, 25526, United States"
+ },
+ "Tinnie|NM": {
+  "lat": 33.3705561,
+  "lng": -105.2263673,
+  "name": "Tinnie, Lincoln County, New Mexico, 88351, United States"
+ },
+ "Tollesboro|KY": {
+  "lat": 38.5595201,
+  "lng": -83.5760258,
+  "name": "Tollesboro, Lewis County, Kentucky, 41189, United States"
+ },
+ "Townsend|VA": {
+  "lat": 37.1849815,
+  "lng": -75.958473,
+  "name": "Townsend, Northampton County, Virginia, 23443, United States"
+ },
+ "Townville|SC": {
+  "lat": 34.5637137,
+  "lng": -82.8984775,
+  "name": "Townville, Anderson County, South Carolina, 29689, United States"
+ },
+ "Troy|VA": {
+  "lat": 37.9509737,
+  "lng": -78.2463934,
+  "name": "Troy, Fluvanna County, Virginia, 22974, United States"
+ },
+ "Union Grove|NC": {
+  "lat": 36.0245784,
+  "lng": -80.8661825,
+  "name": "Union Grove, Iredell County, North Carolina, United States"
+ },
+ "Utica|IL": {
+  "lat": 41.3405897,
+  "lng": -89.010081,
+  "name": "North Utica, LaSalle County, Illinois, 61373, United States"
+ },
+ "Uxbridge|MA": {
+  "lat": 42.0768175,
+  "lng": -71.6298483,
+  "name": "Uxbridge, Worcester County, Massachusetts, United States"
+ },
+ "Waddy|KY": {
+  "lat": 38.1370153,
+  "lng": -85.0743978,
+  "name": "Waddy, Shelby County, Kentucky, 40076, United States"
+ },
+ "Wall|TX": {
+  "lat": 31.3743455,
+  "lng": -100.30366,
+  "name": "Wall, Tom Green County, Texas, 76957, United States"
+ },
+ "Warren|ME": {
+  "lat": 44.12062,
+  "lng": -69.240646,
+  "name": "Warren, Knox County, Maine, 04864, United States"
+ },
+ "Waterfall|PA": {
+  "lat": 40.1275826,
+  "lng": -78.0627822,
+  "name": "Waterfall, Taylor Township, Fulton County, Pennsylvania, United States"
+ },
+ "West Chesterfield|NH": {
+  "lat": 42.9042482,
+  "lng": -72.5156447,
+  "name": "West Chesterfield, Chesterfield, Cheshire County, New Hampshire, 03466, United States"
+ },
+ "West Coxsackie|NY": {
+  "lat": 42.3606399,
+  "lng": -73.8167921,
+  "name": "West Coxsackie, Village of Coxsackie, Town of Coxsackie, Greene County, New York, 12051, United States"
+ },
+ "West Greenwich|RI": {
+  "lat": 41.6226185,
+  "lng": -71.6657892,
+  "name": "West Greenwich, Kent County, Rhode Island, 02817, United States"
+ },
+ "West Helena|AR": {
+  "lat": 34.5440124,
+  "lng": -90.6426195,
+  "name": "West Helena, Helena-West Helena, Phillips County, Arkansas, 72390, United States"
+ },
+ "West Paris|ME": {
+  "lat": 44.324339,
+  "lng": -70.574112,
+  "name": "West Paris, Oxford County, Maine, 04289, United States"
+ },
+ "Westminster|MA": {
+  "lat": 42.5449024,
+  "lng": -71.9107903,
+  "name": "Westminster, Worcester County, Massachusetts, 01473, United States"
+ },
+ "Westover|MD": {
+  "lat": 38.1240114,
+  "lng": -75.7063171,
+  "name": "Westover, Somerset County, Maryland, 21890, United States"
+ },
+ "Whately|MA": {
+  "lat": 42.4399249,
+  "lng": -72.6349083,
+  "name": "Whately, Franklin County, Massachusetts, United States"
+ },
+ "Willington|CT": {
+  "lat": 41.8757947,
+  "lng": -72.2642761,
+  "name": "Willington, Capitol Planning Region, Connecticut, 06279, United States"
+ },
+ "Willow Beach|AZ": {
+  "lat": 35.8697801,
+  "lng": -114.6600654,
+  "name": "Willow Beach, Mohave County, Arizona, United States"
+ },
+ "Winnabow|NC": {
+  "lat": 34.1493374,
+  "lng": -78.0936046,
+  "name": "Winnabow, Brunswick County, North Carolina, 28479, United States"
+ },
+ "Woodford|VA": {
+  "lat": 38.1131886,
+  "lng": -77.4088708,
+  "name": "Woodford, Caroline County, Virginia, 22580, United States"
+ },
+ "Wrentham|MA": {
+  "lat": 42.0667652,
+  "lng": -71.3281114,
+  "name": "Wrentham, Norfolk County, Massachusetts, 02093, United States"
+ },
+ "Wysox|PA": {
+  "lat": 41.7745124,
+  "lng": -76.399314,
+  "name": "Wysox, Wysox Township, Bradford County, Pennsylvania, 18854, United States"
+ },
+ "Youngstown|FL": {
+  "lat": 30.3643628,
+  "lng": -85.4382568,
+  "name": "Youngstown, Bay County, Florida, United States"
+ }
+}
