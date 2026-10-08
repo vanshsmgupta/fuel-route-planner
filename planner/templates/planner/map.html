@@ -32,8 +32,9 @@
   <script>
     const trip = JSON.parse(document.getElementById('trip-data').textContent);
     const map = L.map('map');
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 18, attribution: '&copy; OpenStreetMap contributors'
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19, subdomains: 'abcd',
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
     }).addTo(map);
 
     const line = L.polyline(trip.route.coordinates.map(([lng, lat]) => [lat, lng]), { color: '#1f6feb', weight: 4 }).addTo(map);
