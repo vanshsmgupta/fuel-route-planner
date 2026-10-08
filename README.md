@@ -61,7 +61,7 @@ curl "http://127.0.0.1:8000/api/route/?start=Dallas,TX&finish=Denver,CO"
 }
 ```
 
-`route` is GeoJSON, so it can go straight into Leaflet, Mapbox etc. `map_url` opens an HTML page with the route and the fuel stops drawn on an OpenStreetMap map.
+`route` is GeoJSON, so it can go straight into Leaflet, Mapbox etc. `map_url` opens an HTML page with the route and the fuel stops drawn on a map.
 
 Errors come back as `{"error": "..."}` with 400 (bad location), 422 (no route or no fuel station within range) or 502 (routing service down).
 
